@@ -1,0 +1,342 @@
+@media (min-width: 992px) { 
+
+
+#banner {
+    background-color: #0000FF ;
+    color: cornsilk;
+    width: 100%;
+    height: auto;
+    margin-bottom: 100px;
+}
+
+#header .navbar{
+background-color: #0000FF ;
+
+}
+
+#header .nav-link{
+    font-family: 'Montserrat';
+}
+#banner h1{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'raleway';
+
+}
+#banner p{
+    font-weight: lighter;
+    font-size: 35px;
+    font-family: 'raleway';
+
+}
+
+#banner .img-banner{
+    width: 428px;
+    height: auto;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+
+#banner .visual-1{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+#banner .kirimm{
+    padding-top: 100px;
+}
+#banner .kirim-p{
+    padding-top: 10px;
+    width: 442px;
+    height: auto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+#ongkir .img-resi{
+    width: 339px;
+    height: auto;
+}
+
+#ongkir .bg-ongkir{
+    padding : 50px ;
+    width: 100%;
+    height: auto;
+    background : floralwhite ;
+    box-shadow: 0 0 50px rgb(148, 137, 137);
+    border-radius: 20px;
+}
+
+#ongkir .btn-warning{
+    width: ;
+    height: ;
+    
+}
+#kenapa .img-keluarga{
+
+    width: 478.57px;
+    height: auto;
+    left: 119px;
+    top: 1542px;
+    
+}
+#kenapa h1{
+    padding-top: 50px;
+    width: 572.36px;
+    height: auto;
+    left: 756.09px;
+    top: 1613.07px;
+    
+}
+#kenapa p1{
+width: 572.36px;
+height: auto;
+left: 756.09px;
+top: 1613.07px;
+
+}
+
+#kenapa {
+    margin-top: 200px;
+    width: 100%;
+    height: auto;
+    background: #F2F1F1; 
+   
+}
+#timbangan .img-timbangan{
+
+    width: 478.57px;
+    height: auto;
+    left: 119px;
+    top: 1542px;
+}
+#timbangan {
+    margin-top: 200px;
+    width: 100%;
+    height: auto;
+    background: #F2F1F1; 
+    
+    
+}
+#timbangan p1 {
+    width: 572.36px;
+    height: auto;
+    
+    
+    }
+
+#pengiriman .img-pengiriman{
+
+    width: 478.57px;
+    height: auto;
+    left: 119px;
+    top: 1542px;
+}
+#pengiriman {
+    margin-top: 200px;
+    width: 100%;
+    height: auto;
+    background: #F2F1F1; 
+    
+}
+
+
+#ekspedisi {
+    margin-top: 200px;
+    background-image: url(../Assets/img/ekspedisi.jpeg);
+    height: 600px;
+    width: auto;
+}
+#ekspedisi h1 {
+    
+padding-top: 130px;
+ color: white;
+ width: 704px;
+ height: auto;
+
+
+}
+#ekspedisi .btn-light{
+    background: linear-gradient(89.42deg, #6C85C9 2.64%, #82D0E5 44.77%);
+    : ;
+    width: 275.39px;
+    height: au;
+}
+#rating {
+    padding-top: 200px;
+}
+#rating .bg-rating{
+    padding : 50px ;
+    width: 261.83px;
+    height: auto;
+    background : floralwhite ;
+    box-shadow: 0 0 50px rgb(148, 137, 137);
+    border-radius: 20px;
+}
+
+#rating .apa{
+width: 251px;
+height: auto;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+margin-bottom: 100px;
+
+
+
+}
+
+#bawah {
+    margin-top: 250px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color:  #292525;
+    
+}
+
+#bawah .img-logo{
+    width: 250px;
+    height: auto;
+}
+
+    
+#bawah h5{
+    padding-top: 30px;
+    color: white;
+    font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+}
+
+#bawah .title{
+color: white;
+width: 153.56px;
+height: auto; 
+}
+#bawah .copy{ 
+padding-top: 50px;
+width: 506.37px;
+height: auto;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+
+#bawah .tulisan{
+padding-top: 20px ;
+color: white;
+width: 252.55px;
+height: auto;
+}
+
+#bawah .tulisan1{
+    width: 252.55px;
+    height: auto;
+    color: white;
+}
+   
+   
+#bawah .tulisan2{
+    width: 252.55px;
+    height: auto;
+    color: white;
+   }
+   #bawah .office{
+       color: white;
+   }
+   #bawah .jalan{
+       padding-top: 10px;
+       color: white;
+       font-weight: bold;
+       font-style: normal;
+       font-size: 18px;
+   }
+   #bawah .img-fb{
+       padding-top: 70px;
+       width: 76.15px;
+       height: auto;
+   }
+   #bawah .img-ig{
+    padding-top: 70px;
+    width: 76.15px;
+    height: auto;}
+
+    #bawah .img-tw{
+        padding-top: 70px;
+        width: 76.15px;
+        height: auto;}
+
+        #bawah .img-wa{
+            padding-top: 70px;
+            width: 76.15px;
+            height: auto;}
+
+#headerlayanan{
+    background-color:#F8A70F ;
+}
+
+#bannerlayanan{
+    background-color: #F8A70F;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+    margin-bottom: 100px;}
+    
+
+#bannerlayanan .img-banner{ 
+    width: 428px;
+    height: auto;
+    padding-left: 150px;
+    padding-top: 40px;
+
+
+}
+#bannerlayanan  h1{
+    width: 505px;
+    height: auto;
+    font-size: 30px;
+    font-style: normal;
+    color: white;  
+padding-top: 100px;
+}
+
+#bannerlayanan  .kirim-p{
+    padding-top: 10px;
+    width: 442px;
+    height: auto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    color: white;
+}
+
+
+#headerlayanan .nav-link{
+    font-family: 'Montserrat';
+}
+#ratinglayanan .h4{
+width: 271.94px;
+height: auto;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+
+color: #666666;
+
+}
+
+

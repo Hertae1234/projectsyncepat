@@ -1,0 +1,66 @@
+@media (max-width: 992px) { 
+
+
+    #banner {
+        background-color: lightseagreen;
+        color: cornsilk;
+        width: 100%;
+        height: auto;
+    }
+    
+    #header .nav-link{
+        font-family: 'Montserrat';
+    }
+    #banner h1{
+        font-weight: bold;
+        font-size: 35px;
+        font-family: 'raleway';
+    
+    }
+    #banner p{
+        font-weight: lighter;
+        font-size: 35px;
+        font-family: 'raleway';
+    
+    }
+    
+    #banner .img-banner{
+        width: 420px;
+        height: 393px;
+    }
+    
+    #banner .visual-1{
+        width: 100%;
+        height: auto;
+    }
+    
+    #ongkir .img-resi{
+        width: 339px;
+        height: auto;
+    }
+    
+    #ongkir .bg-ongkir{
+        padding : 50px ;
+        width: 100%;
+        height: auto;
+        background : floralwhite ;
+        box-shadow: 0 0 50px rgb(148, 137, 137);
+        border-radius: 20px;
+    }
+    
+    #ongkir .btn-warning:hover {
+        background-color: white;
+      }
+       
+     #kenapa .button-layanan:hover {
+         background-color: yellow;
+
+    
+         
+     }
+
+
+
+     
+    }
+
